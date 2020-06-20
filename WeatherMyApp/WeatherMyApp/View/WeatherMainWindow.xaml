@@ -1,0 +1,129 @@
+﻿<Window x:Class="WeatherMyApp.View.WeatherMainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WeatherMyApp.View" xmlns:vm="clr-namespace:WeatherMyApp.ViewModel"
+        mc:Ignorable="d"
+                Title="перемістити мишкой" Height="450" Width="650" 
+        Background="Red" FontSize="10" Foreground="Red"
+    AllowsTransparency="True" WindowStyle="None" >
+    <Window.Template>
+        <ControlTemplate TargetType="Window">
+            <Border Name="newBorder" CornerRadius="360" Opacity="0.9" 
+                    Background="LightBlue">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition />
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+                    <!--Заголовок-->
+                    <TextBlock Text="{TemplateBinding Title}" FontWeight="Bold" HorizontalAlignment="Center"
+                    MouseLeftButtonDown="TextBlock_MouseLeftButtonDown"/>
+                    <!--Основное содержание-->
+                    <Border Grid.Row="1">
+                        <AdornerDecorator>
+                            <ContentPresenter />
+                        </AdornerDecorator>
+                    </Border>
+
+                </Grid>
+            </Border>
+        </ControlTemplate>
+    </Window.Template>
+    <Window.Resources>
+        <vm:WeatherVM x:Key="vm"/>
+    </Window.Resources>
+    <Grid DataContext="{StaticResource vm}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+
+        <WrapPanel Grid.Row="1" Orientation ="Vertical"  Width="180" Height="140"      
+            DataContext="{Binding CurrentCondition}"
+            Background="LightBlue" Margin="35,3.4,8,2.2">
+            <TextBlock Text="Узнай погоду" Foreground="White"
+                       HorizontalAlignment="Center"
+                       FontSize="25">
+            </TextBlock>
+            <TextBlock Text="у будь-якому місті світу!" Foreground="White"
+                       HorizontalAlignment="Center" Margin="0 0 0 0"
+                       FontSize="16">
+            </TextBlock>
+            <StackPanel Orientation="Horizontal" Margin="20 10 0 0">
+                <TextBlock Text="Уведіть назву міста:" Margin="5 0 3 0"
+                           Height="20" FontSize="12"          
+                          Foreground ="DarkBlue" Width="110"/>
+                <TextBox Margin="0" Width="50" FontSize="12" 
+                     Text="{Binding Query, Mode = TwoWay, 
+                UpdateSourceTrigger=PropertyChanged}"/>
+            </StackPanel>
+            <Button Content="Отримуй результат!" Width="70" 
+                    Margin="0 10 0 0" 
+                    Foreground="DarkBlue" FontSize="7"
+                    Background="LightBlue" BorderBrush="White" 
+                    BorderThickness="2"
+                    Command="{Binding SearchCommand}" CommandParameter="{Binding Query, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+            <ListBox Margin="10" Width="70" Height="10"
+                     DisplayMemberPath="LocalizedName" ItemsSource="{Binding Cities}" SelectedItem="{Binding SelectedCity, Mode=TwoWay}">
+            </ListBox>
+
+        </WrapPanel>
+        <WrapPanel Grid.Row="2" Orientation ="Vertical">
+            <TextBlock Margin="100 2 0 0" Width="50"
+                       Text="{Binding Temperature.Metric.Value}"/>
+            <TextBlock Margin="100 2 0 0" Width="50"
+                       Text="{Binding HasPrecipitation}"/>
+            <TextBlock DataContext ="StaticResource vm" 
+                       Margin="100 2 0 0" Width="50"
+                       Text="{Binding Qwery}"/>
+            <TextBlock Margin="100 2 0 0" Width="50"
+                       Text="{Binding SelectedCity.LocalizedName}"/>
+        </WrapPanel>
+        <StackPanel Grid.Row="0" Grid.Column="1" Orientation="Vertical">
+            <Button Width="100" Height="50" BorderBrush="Blue" BorderThickness="2"
+                Content="Поточна погода" Click="Button_Click" Foreground="Blue"
+                    Margin="0 30 0 0" FontSize="12"/>
+
+            <Button Width="100" Height="50"
+                Margin = "10 10 10 10 " Content="Узнай прогноз!"
+                Background="Blue" BorderBrush="White" BorderThickness="2" 
+                Foreground="White" FontSize="12"
+                    Click="Button_Click_2"
+                    />
+        </StackPanel>
+        <Button Grid.Row="0" Grid.Column="2"
+                Margin = "6.4,53,94.6,31.6" Content="X"
+                Background="Red" 
+                Click="Button_Click_1" FontFamily="Lucida Console"
+                Foreground="White" FontSize="16">
+            <Button.Template>
+                <ControlTemplate  TargetType="Button">
+                    <Grid Margin="29,0,21,-0.4">
+                        <Ellipse Fill="Red"
+                                 ></Ellipse>
+                        <Label Content="{TemplateBinding Content}" HorizontalAlignment="Center"
+                               VerticalAlignment="Center"
+                               FontSize="60"
+                               Foreground="White"></Label>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Image Grid.Column="1" Grid.Row="1"
+            Width ="250"  Source="image/img003b.png" Margin="0 0 0 0">
+        </Image>
+        <Image Grid.Column="2" Grid.Row="1"
+            Width ="250"  Source="image/img001.png" Margin="0 0 0 0">
+        </Image>
+    </Grid>
+</Window>

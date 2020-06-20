@@ -1,0 +1,33 @@
+﻿<Window x:Class="WeatherMyApp.View.WeatherResult"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WeatherMyApp.View"
+        mc:Ignorable="d"
+        Title="Weather Result" Height="300" Width="300" Foreground="Blue">
+    <Grid Background="LightBlue">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="147*"/>
+            <ColumnDefinition Width="146*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="+28" FontSize="60" 
+                   TextAlignment="Center"
+                   Foreground="White"></TextBlock>
+        <Image Grid.Column="1"
+               Width ="250"  Source="image/img001.png" Margin="0 0 0 0"></Image>
+        <TextBlock Grid.Row ="1" 
+                   Text="без опадів" FontSize="40" 
+                   Foreground="White"
+                   TextWrapping="Wrap"
+                   TextAlignment="Center"></TextBlock>
+        <Image Grid.Row ="1" Grid.Column="1"
+           Width ="250"  Source="image/img002.png" Margin="0 0 0 0"    
+               ></Image>
+    </Grid>
+</Window>
+

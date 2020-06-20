@@ -1,0 +1,65 @@
+C:\Users\User\source\repos\WeatherMyApp\WeatherMyApp\bin\Debug\WeatherMyApp.exe.config
+C:\Users\User\source\repos\WeatherMyApp\WeatherMyApp\bin\Debug\WeatherMyApp.exe
+C:\Users\User\source\repos\WeatherMyApp\WeatherMyApp\bin\Debug\WeatherMyApp.pdb
+C:\Users\User\source\repos\WeatherMyApp\WeatherMyApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\WeatherMyApp\WeatherMyApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\WeatherMyApp\WeatherMyApp\obj\Debug\View\WeatherMainWindow.g.cs
+C:\Users\User\source\repos\WeatherMyApp\WeatherMyApp\obj\Debug\App.g.cs
+C:\Users\User\source\repos\WeatherMyApp\WeatherMyApp\obj\Debug\WeatherMyApp_MarkupCompile.cache
+C:\Users\User\source\repos\WeatherMyApp\WeatherMyApp\obj\Debug\WeatherMyApp_MarkupCompile.lref
+C:\Users\User\source\repos\WeatherMyApp\WeatherMyApp\obj\Debug\View\WeatherMainWindow.baml
+C:\Users\User\source\repos\WeatherMyApp\WeatherMyApp\obj\Debug\WeatherMyApp.g.resources
+C:\Users\User\source\repos\WeatherMyApp\WeatherMyApp\obj\Debug\WeatherMyApp.Properties.Resources.resources
+C:\Users\User\source\repos\WeatherMyApp\WeatherMyApp\obj\Debug\WeatherMyApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WeatherMyApp\WeatherMyApp\obj\Debug\WeatherMyApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WeatherMyApp\WeatherMyApp\obj\Debug\WeatherMyApp.csproj.CopyComplete
+C:\Users\User\source\repos\WeatherMyApp\WeatherMyApp\obj\Debug\WeatherMyApp.exe
+C:\Users\User\source\repos\WeatherMyApp\WeatherMyApp\obj\Debug\WeatherMyApp.pdb
+C:\Users\User\source\repos\WeatherMyApp\WeatherMyApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\source\repos\WeatherMyApp\WeatherMyApp\obj\Debug\WeatherMyApp.csprojAssemblyReference.cache
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova3 мой исправленый Валентиной проект\WeatherMyAppChange\WeatherMyApp\WeatherMyApp\bin\Debug\WeatherMyApp.exe.config
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova3 мой исправленый Валентиной проект\WeatherMyAppChange\WeatherMyApp\WeatherMyApp\bin\Debug\WeatherMyApp.exe
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova3 мой исправленый Валентиной проект\WeatherMyAppChange\WeatherMyApp\WeatherMyApp\bin\Debug\WeatherMyApp.pdb
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova3 мой исправленый Валентиной проект\WeatherMyAppChange\WeatherMyApp\WeatherMyApp\bin\Debug\Newtonsoft.Json.dll
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova3 мой исправленый Валентиной проект\WeatherMyAppChange\WeatherMyApp\WeatherMyApp\bin\Debug\Newtonsoft.Json.xml
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova3 мой исправленый Валентиной проект\WeatherMyAppChange\WeatherMyApp\WeatherMyApp\obj\Debug\View\WeatherMainWindow.g.cs
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova3 мой исправленый Валентиной проект\WeatherMyAppChange\WeatherMyApp\WeatherMyApp\obj\Debug\App.g.cs
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova3 мой исправленый Валентиной проект\WeatherMyAppChange\WeatherMyApp\WeatherMyApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova3 мой исправленый Валентиной проект\WeatherMyAppChange\WeatherMyApp\WeatherMyApp\obj\Debug\WeatherMyApp_MarkupCompile.cache
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova3 мой исправленый Валентиной проект\WeatherMyAppChange\WeatherMyApp\WeatherMyApp\obj\Debug\WeatherMyApp_MarkupCompile.lref
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova3 мой исправленый Валентиной проект\WeatherMyAppChange\WeatherMyApp\WeatherMyApp\obj\Debug\View\WeatherMainWindow.baml
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova3 мой исправленый Валентиной проект\WeatherMyAppChange\WeatherMyApp\WeatherMyApp\obj\Debug\WeatherMyApp.g.resources
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova3 мой исправленый Валентиной проект\WeatherMyAppChange\WeatherMyApp\WeatherMyApp\obj\Debug\WeatherMyApp.Properties.Resources.resources
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova3 мой исправленый Валентиной проект\WeatherMyAppChange\WeatherMyApp\WeatherMyApp\obj\Debug\WeatherMyApp.csproj.GenerateResource.cache
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova3 мой исправленый Валентиной проект\WeatherMyAppChange\WeatherMyApp\WeatherMyApp\obj\Debug\WeatherMyApp.csproj.CoreCompileInputs.cache
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova3 мой исправленый Валентиной проект\WeatherMyAppChange\WeatherMyApp\WeatherMyApp\obj\Debug\WeatherMyApp.csproj.CopyComplete
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova3 мой исправленый Валентиной проект\WeatherMyAppChange\WeatherMyApp\WeatherMyApp\obj\Debug\WeatherMyApp.exe
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova3 мой исправленый Валентиной проект\WeatherMyAppChange\WeatherMyApp\WeatherMyApp\obj\Debug\WeatherMyApp.pdb
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova3 мой исправленый Валентиной проект\WeatherMyAppChange\WeatherMyApp\WeatherMyApp\obj\Debug\View\WeatherResult.g.cs
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova3 мой исправленый Валентиной проект\WeatherMyAppChange\WeatherMyApp\WeatherMyApp\obj\Debug\View\WeatherResult.baml
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova3 мой исправленый Валентиной проект\WeatherMyAppChange\WeatherMyApp\WeatherMyApp\obj\Debug\View\WeatherResult2.g.cs
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova3 мой исправленый Валентиной проект\WeatherMyAppChange\WeatherMyApp\WeatherMyApp\obj\Debug\View\WeatherResult2.baml
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova3 мой исправленый Валентиной проект\WeatherMyAppChange\WeatherMyApp\WeatherMyApp\obj\Debug\WeatherMyApp.csprojAssemblyReference.cache
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova4 мой закл проект\WeatherMyApp\WeatherMyApp\bin\Debug\WeatherMyApp.exe.config
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova4 мой закл проект\WeatherMyApp\WeatherMyApp\bin\Debug\WeatherMyApp.exe
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova4 мой закл проект\WeatherMyApp\WeatherMyApp\bin\Debug\WeatherMyApp.pdb
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova4 мой закл проект\WeatherMyApp\WeatherMyApp\bin\Debug\Newtonsoft.Json.dll
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova4 мой закл проект\WeatherMyApp\WeatherMyApp\bin\Debug\Newtonsoft.Json.xml
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova4 мой закл проект\WeatherMyApp\WeatherMyApp\obj\Debug\WeatherMyApp.csprojAssemblyReference.cache
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova4 мой закл проект\WeatherMyApp\WeatherMyApp\obj\Debug\View\WeatherMainWindow.g.cs
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova4 мой закл проект\WeatherMyApp\WeatherMyApp\obj\Debug\View\WeatherResult.g.cs
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova4 мой закл проект\WeatherMyApp\WeatherMyApp\obj\Debug\View\WeatherResult2.g.cs
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova4 мой закл проект\WeatherMyApp\WeatherMyApp\obj\Debug\App.g.cs
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova4 мой закл проект\WeatherMyApp\WeatherMyApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova4 мой закл проект\WeatherMyApp\WeatherMyApp\obj\Debug\WeatherMyApp_MarkupCompile.cache
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova4 мой закл проект\WeatherMyApp\WeatherMyApp\obj\Debug\WeatherMyApp_MarkupCompile.lref
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova4 мой закл проект\WeatherMyApp\WeatherMyApp\obj\Debug\View\WeatherMainWindow.baml
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova4 мой закл проект\WeatherMyApp\WeatherMyApp\obj\Debug\View\WeatherResult.baml
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova4 мой закл проект\WeatherMyApp\WeatherMyApp\obj\Debug\View\WeatherResult2.baml
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova4 мой закл проект\WeatherMyApp\WeatherMyApp\obj\Debug\WeatherMyApp.g.resources
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova4 мой закл проект\WeatherMyApp\WeatherMyApp\obj\Debug\WeatherMyApp.Properties.Resources.resources
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova4 мой закл проект\WeatherMyApp\WeatherMyApp\obj\Debug\WeatherMyApp.csproj.GenerateResource.cache
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova4 мой закл проект\WeatherMyApp\WeatherMyApp\obj\Debug\WeatherMyApp.csproj.CoreCompileInputs.cache
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova4 мой закл проект\WeatherMyApp\WeatherMyApp\obj\Debug\WeatherMyApp.csproj.CopyComplete
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova4 мой закл проект\WeatherMyApp\WeatherMyApp\obj\Debug\WeatherMyApp.exe
+C:\0 ЛИЧНОЕ\0 предмет 2 программирование С++ из ноута\СИ ШАРП\0 курсова\coursova4 мой закл проект\WeatherMyApp\WeatherMyApp\obj\Debug\WeatherMyApp.pdb
